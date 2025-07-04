@@ -1,7 +1,7 @@
 # Hi there, I'm Yash
 
 ## About Me
-I'm a passionate developer who loves creating innovative solutions and learning new technologies. Currently based in Bangalore, I enjoy working on projects that make a difference.
+I'm a passionate developer who loves creating innovative solutions and learning new technologies. Currently based in Pune, I enjoy working on projects that make a difference.
 
 
 <details> 
